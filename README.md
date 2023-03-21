@@ -20,4 +20,8 @@ IoT 개발자과정 C++ 학습 리포지토리
 
      <img src= "https://raw.githubusercontent.com/limchaeyeon8/basic-cpp-2023/main/C%2B%2B/baseC%2B%2B/baseC%2B%2B/code/defaultValue_1.png" width="400" />
 
-- 
+- 매크로 함수
+  - 장점: 일반적인 함수에 비해 실행속도 빠름,  자료형이 필요 없음
+  - 단점: 복잡한 함수를 매크로 형태로 정의하는데 한계
+
+- 인라인 함수 정의
