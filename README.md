@@ -18,6 +18,6 @@ IoT 개발자과정 C++ 학습 리포지토리
   - 전달되는 인자는 왼쪽부터 채워짐
   - 부족분은 디폴트 값으로 채워짐
 
-<img = 'https://raw.githubusercontent.com/limchaeyeon8/basic-cpp-2023/main/C%2B%2B/baseC%2B%2B/baseC%2B%2B/code/defaultValue_1.png'>
+     <img src= "https://raw.githubusercontent.com/limchaeyeon8/basic-cpp-2023/main/C%2B%2B/baseC%2B%2B/baseC%2B%2B/code/defaultValue_1.png" width="400" />
 
 - 
