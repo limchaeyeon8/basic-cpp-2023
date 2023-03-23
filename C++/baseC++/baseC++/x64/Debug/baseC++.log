@@ -1,3 +1,5 @@
-﻿  valTest.cpp
-C:\Source\basic-cpp-2023\C++\baseC++\baseC++\valTest.cpp(28,13): warning C4309: '초기화 중': 상수 값이 잘립니다.
+﻿  Rectangle.cpp
+  RectangleFaultFind.cpp
+  코드를 생성하고 있습니다...
+x64\Debug\Point.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
   baseC++.vcxproj -> C:\Source\basic-cpp-2023\C++\baseC++\x64\Debug\baseC++.exe
