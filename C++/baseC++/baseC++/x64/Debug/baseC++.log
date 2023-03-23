@@ -1,2 +1,3 @@
-﻿  inlineFunc.cpp
+﻿  valTest.cpp
+C:\Source\basic-cpp-2023\C++\baseC++\baseC++\valTest.cpp(28,13): warning C4309: '초기화 중': 상수 값이 잘립니다.
   baseC++.vcxproj -> C:\Source\basic-cpp-2023\C++\baseC++\x64\Debug\baseC++.exe
