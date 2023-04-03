@@ -176,3 +176,7 @@ IoT 개발자과정 C++ 학습 리포지토리
   - static_cast; A 타입 -> B 타입
   - const_caqst; const 성향 삭제
   - reinterpret_cast; 상관없는 자료형으로 형 변환
+
+## 10일차
+- 코딩테스트
+  - Calculator.h / Calculator.cpp / CalculatorTutorial.cpp
